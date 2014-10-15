@@ -3,4 +3,5 @@ Hatris requires DrRacket development enviroment v5.3.6 or later to run.
 Stack 5 of the same type of hat to clear the stack and gain points. 
 Higher difficulties introduce more varieties of hats. 
 
-Read the plaintext format if not using DrRacket
+If you want to read the code and don't have DrRacket, opening the
+plaintext format will suffice, but images will be lost. 
